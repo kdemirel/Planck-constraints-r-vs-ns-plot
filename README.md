@@ -26,8 +26,8 @@ The repository includes:
 
 ## How to Use
 
-1. **Prepare Your Data**:
-   - If you want to compare your model's predictions with data, derive the $n_s$ and $r$ values (on their dependence on $N$).
+1. **Prepare Your Model**:
+   - If you want to compare your model's predictions with data, derive the $n_s$ and $r$ values (or their dependence on $N$ or each other).
    
 2. **Run the Notebook**:
    - Open `Planck Constraints Plot.nb` in Mathematica.

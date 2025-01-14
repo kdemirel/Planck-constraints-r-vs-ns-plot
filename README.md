@@ -1,1 +1,1 @@
-# planck-constraints-r-vs-ns-plot
+# Planck constraints: tensor-to-scalar ratio ($r$) vs spectral index ($n_s$) Plot

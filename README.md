@@ -27,11 +27,11 @@ The repository includes:
 ## How to Use
 
 1. **Prepare Your Data**:
-   - If you want to overlay your model's predictions, determine the $n_s$ and $r$ values (or their dependence on $N$).
+   - If you want to compare your model's predictions with data, derive the $n_s$ and $r$ values (on their dependence on $N$).
    
 2. **Run the Notebook**:
    - Open `Planck Constraints Plot.nb` in Mathematica.
-   - Follow the instructions within the notebook to load `PLANCK Data.csv` and add your model's predictions.
+   - Follow the instructions
 
 3. **Generate the Plot**:
    - Execute the notebook to produce a comparison plot. The resulting visualization will highlight how well your model aligns with observational constraints.
